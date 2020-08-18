@@ -1,0 +1,11 @@
+test*.mp4
+test*.mp3
+untitled*.*
+*.log
+frames/*
+images/*
+samples/*
+test/*
+tmp/*
+*.odt
+
